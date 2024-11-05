@@ -1,0 +1,2 @@
+# vaulter
+Offline password manager
